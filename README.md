@@ -1,6 +1,6 @@
 # Compound Components
 
-The compound component pattern in React is a design approach where multiple, related components work together as a single, cohesive unit, sharing implicit state and logic. This pattern is a powerful way to build flexible, reusable, and maintainable user interfaces by delegating the control of structure to the user, similar to how <select> and <option> tags work in native HTML.
+The compound component pattern in React is a design approach where multiple, related components work together as a single, cohesive unit, sharing implicit state and logic. This pattern is a powerful way to build flexible, reusable, and maintainable user interfaces by delegating the control of structure to the user, similar to how `<select>` and `<option>` tags work in native HTML.
 
 ## How it Works
 
